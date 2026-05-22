@@ -1,2 +1,22 @@
-# higher_lower_game
-A Python command-line game where players compare two accounts and guess which one has more social media followers.
+# 🎮 Higher Lower Game
+
+A Python command-line game where players guess which celebrity, brand, or organization has more social media followers.
+
+---
+
+## 🚀 Features
+
+- Random account comparison
+- Score tracking system
+- Continuous gameplay until wrong answer
+- Uses functions and dictionaries
+- Simple and interactive terminal interface
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Random Module
+
+---
